@@ -1,0 +1,60 @@
+{
+    "products":[
+      {
+        "id": 1,
+        "title": "Tee Black",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel et nesciunt tempore nobis fugit dolorum ipsam exercitationem beatae impedit, ipsum tenetur officia iste architecto eligendi illum dolores minus cumque commodi? Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel et nesciunt tempore nobis fugit dolorum ipsam exercitationem beatae impedit, ipsum tenetur officia iste architecto eligendi illum dolores minus cumque commodi?",
+        "price": 12,
+        "img": "https://source.unsplash.com/featured/300x200"
+      },
+      {
+        "id": 2,
+        "title": "Tee White",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel et nesciunt tempore nobis fugit dolorum ipsam exercitationem beatae impedit, ipsum tenetur officia iste architecto eligendi illum dolores minus cumque commodi? Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel et nesciunt tempore nobis fugit dolorum ipsam exercitationem beatae impedit, ipsum tenetur officia iste architecto eligendi illum dolores minus cumque commodi?",
+        "price": 12,
+        "img": "https://source.unsplash.com/featured/300x203"
+      },
+      {
+        "id": 3,
+        "title": "Hoodie Black",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel et nesciunt tempore nobis fugit dolorum ipsam exercitationem beatae impedit, ipsum tenetur officia iste architecto eligendi illum dolores minus cumque commodi? Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel et nesciunt tempore nobis fugit dolorum ipsam exercitationem beatae impedit, ipsum tenetur officia iste architecto eligendi illum dolores minus cumque commodi?",
+        "price": 21,
+        "img": "https://source.unsplash.com/featured/300x201"
+      },
+      {
+        "id": 4,
+        "title": " Hoodie White",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel et nesciunt tempore nobis fugit dolorum ipsam exercitationem beatae impedit, ipsum tenetur officia iste architecto eligendi illum dolores minus cumque commodi? Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel et nesciunt tempore nobis fugit dolorum ipsam exercitationem beatae impedit, ipsum tenetur officia iste architecto eligendi illum dolores minus cumque commodi?",
+        "price": 21,
+        "img": "https://source.unsplash.com/featured/300x202"
+      },
+      {
+        "id": 5,
+        "title": "Wide Cushion",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel et nesciunt tempore nobis fugit dolorum ipsam exercitationem beatae impedit, ipsum tenetur officia iste architecto eligendi illum dolores minus cumque commodi? Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel et nesciunt tempore nobis fugit dolorum ipsam exercitationem beatae impedit, ipsum tenetur officia iste architecto eligendi illum dolores minus cumque commodi?",
+        "price": 7,
+        "img": "https://source.unsplash.com/featured/300x204"
+      },
+      {
+        "id": 6,
+        "title": " Tote Bag",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel et nesciunt tempore nobis fugit dolorum ipsam exercitationem beatae impedit, ipsum tenetur officia iste architecto eligendi illum dolores minus cumque commodi? Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel et nesciunt tempore nobis fugit dolorum ipsam exercitationem beatae impedit, ipsum tenetur officia iste architecto eligendi illum dolores minus cumque commodi?",
+        "price": 8,
+        "img": "https://source.unsplash.com/featured/300x205"
+      },
+      {
+        "id": 7,
+        "title": "Tee Cup",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel et nesciunt tempore nobis fugit dolorum ipsam exercitationem beatae impedit, ipsum tenetur officia iste architecto eligendi illum dolores minus cumque commodi? Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel et nesciunt tempore nobis fugit dolorum ipsam exercitationem beatae impedit, ipsum tenetur officia iste architecto eligendi illum dolores minus cumque commodi?",
+        "price": 12,
+        "img": "https://source.unsplash.com/featured/300x206"
+      },
+      {
+        "id": 8,
+        "title": "Tee black",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel et nesciunt tempore nobis fugit dolorum ipsam exercitationem beatae impedit, ipsum tenetur officia iste architecto eligendi illum dolores minus cumque commodi? Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel et nesciunt tempore nobis fugit dolorum ipsam exercitationem beatae impedit, ipsum tenetur officia iste architecto eligendi illum dolores minus cumque commodi?",
+        "price": 12,
+        "img": "https://source.unsplash.com/featured/300x207"
+      }
+    ]
+  }
